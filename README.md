@@ -1,4 +1,4 @@
-#😁😎👺 Face Mask Detection Using AI
+# Face Mask Detection Using AI 👺
 
 This project uses deep learning (CNN) to detect if a person is wearing a face mask in real-time video feeds.
 
