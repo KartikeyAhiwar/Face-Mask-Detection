@@ -1,0 +1,2 @@
+Download a face mask detection dataset from Kaggle or another source, such as https://tcr9i.chat.openai.com/v2/8E3CED7F-F5EA-43D0-A5C3-745D29FDCFBC/api.js
+Place the images in the dataset/ folder in two subdirectories: with_mask/ and without_mask/.
